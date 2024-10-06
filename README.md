@@ -1,3 +1,5 @@
+[![Header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lldHIxNW5kdmN4aGVmZ2k2M25pamp6a3pzZGtwazE4dWtjcjFlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AskgI4NuWPVUU9p70U/giphy.webp "Header")](#)
+
 ### 👾 xDishhh
 ```zsh
 > neofetch

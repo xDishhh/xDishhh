@@ -1,10 +1,6 @@
 ### 👾 xDishhh
+
 ```zsh
-> fastfetch
-
-```
-
-```bash
 ishhh@pop-os
 ------------------
        OS  :  pop os
